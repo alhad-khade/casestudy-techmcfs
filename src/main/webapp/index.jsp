@@ -9,6 +9,6 @@
     </head>
     <body>
         <h1>Welcome to Wolkentech Pvt Ltd!</h1>
-        <h2>GitHub webhook is now enabled..</h2>
+        <h2>GitHub webhook is now enabled.</h2>
     </body>
 </html>
